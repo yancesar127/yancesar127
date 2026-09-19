@@ -29,10 +29,14 @@
 🚩 Estoy muy interesado en la programación competitiva, y mi objetivo es participar en al menos un ICPC.
 🤔 Estoy muy interesado en ir a Brasil para aprender más sobre ciencias de la computación; espero poder hacer una pasantía allí.
 </pre>
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=yancesar127&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yancesar127&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=yancesar127&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yancesar127&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/yancesar/yancesar127/output/github-snake-dark.svg) 
+<p align="center">
+    <img src="https://github.com/yancesar127/yancesar127/blob/output/github-snake-dark.svg?raw=true" alt="Snake animation">
+</p>
 
 ## 🤝 Connect with me
 <p align="center">
@@ -79,13 +83,14 @@
         <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white">
     </a>
 </p>
+
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="https://github.com/yancesar127">
         <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white">
     </a>
-  <a href="https://github.com/yancesar127">
+    <a href="https://github.com/yancesar127">
         <img alt="Tesseract" src="https://img.shields.io/badge/Tesseract-4285F4.svg?logo=tesseract&logoColor=white">
     </a>
 </p>
@@ -97,9 +102,9 @@
         <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
     </a>
 </p>
+
 <br/>
 <p align="center">
   <i><b>"Si puedes imaginarlo, puedes programarlo, porque cada línea de código es un universo de probabilidades."</b></i> 💻
 </p>
 <br/>
-
