@@ -20,7 +20,7 @@
 ## 👨‍💻 Acerca de mí
 
 <pre>
-💻 Soy estudiante de Ciencias de la Computación actualmente en mi 4to ciclo académico
+💻 Soy estudiante de Ciencia de la Computación actualmente en mi 4to ciclo académico
 🎓 Actualmente estudio en la Universidad Nacional de Ingeniería (UNI) en Perú
 📝 Tengo un gran interés en Inteligencia Artificial, Ciencia de Datos, Ciberseguridad e Ingeniería de Software
 🔭 Actualmente estoy desarrollando proyectos personales en visión por computadora y aventurándome en el mundo de la ciberseguridad.
